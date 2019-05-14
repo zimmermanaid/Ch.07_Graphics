@@ -5,7 +5,8 @@ In this chapter you will be learning about using the ARCADE module to create gra
 
 <h3>Jedi Tasks</h3>
 <ol>
+   <li>Jedi Training</li>
   <li>Flag Project</li>
   <li>Picasso Project</li>
-  <li>Jedi Training</li>
+
   </ol>
