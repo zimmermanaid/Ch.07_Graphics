@@ -7,5 +7,5 @@ In this chapter you will be learning about using the ARCADE module to create gra
 <ol>
   <li>Flag Project</li>
   <li>Picasso Project</li>
-  <li>Take Home Test</li>
+  <li>Jedi Training</li>
   </ol>
