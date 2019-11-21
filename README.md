@@ -7,6 +7,6 @@ In this chapter you will be learning about using the ARCADE module to create gra
 <ol>
    <li>Jedi Training</li>
   <li>Flag Project</li>
-  <li>Picasso Project</li>
+  <li>Pycasso Project</li>
 
   </ol>
