@@ -1,5 +1,5 @@
 '''
-PICASSO PROJECT
+PYCASSO PROJECT
 ---------------
 Your job is to make a cool picture.
 You must use multiple colors.
